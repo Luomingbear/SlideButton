@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlideButton">
+        <attr name="sBackgroundColorOff" format="color|reference" />
+        <attr name="sBackgroundColorOn" format="color|reference" />
+        <attr name="sButtonColor" format="color|reference" />
+        <attr name="sMargin" format="dimension|reference" />
+    </declare-styleable>
+</resources>
